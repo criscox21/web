@@ -1,0 +1,61 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dronscan.com" resolutions="1x" timestamp="1565714784201">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="nosotros.css" crc="374523519" ref="nosotros"/>
+    <file name="index.css" crc="4043453800" ref="index"/>
+    <file name="servicios.css" crc="525513330" ref="servicios"/>
+    <file name="contactos.css" crc="4145857060" ref="contactos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:servicios:contactos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros:servicios:contactos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:servicios:contactos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:nosotros:servicios:contactos"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:servicios:contactos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:servicios:contactos"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:servicios:contactos"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros:servicios:contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-crop-u257.png" crc="404811738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dji_0003.jpg" crc="4098360352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo-crop-u314.png" crc="404811738" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="logo-crop-u407.png" crc="404811738" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="logo-crop-u499.png" crc="404811738" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="5768dc3a1af04a5d920733faf8c8e159.jpg" crc="4209115119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cartografia-1200x800.jpg" crc="4262734673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dji-matrice-210-rtk-flight.jpg" crc="489630855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="urc-ventures-drone-photogrammetry-point-cloud-with-camera-positions-1.jpg" crc="234335315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pix4d-mapping-infographics-naturalresources-illustration_-940x466.png" crc="4126918556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3988763277" seo="true" mt="1565714761945" redirect="true"/>
+  <file name="nosotros.html" crc="53406924" seo="true" mt="1565713420590" redirect="true"/>
+  <file name="servicios.html" crc="3803110744" seo="true" mt="1565713420595" redirect="true"/>
+  <file name="contactos.html" crc="497067153" seo="true" mt="1565713420597" redirect="true"/>
+</manifest>
